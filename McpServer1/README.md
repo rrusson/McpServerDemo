@@ -53,3 +53,5 @@ ASP.NET Core MCP servers use the [ModelContextProtocol.AspNetCore](https://www.n
 - [Protocol Specification](https://spec.modelcontextprotocol.io/)
 - [GitHub Organization](https://github.com/modelcontextprotocol)
 - [MCP C# SDK](https://modelcontextprotocol.github.io/csharp-sdk)
+- [C# MCP server quickstart](https://learn.microsoft.com/en-us/dotnet/ai/quickstarts/build-mcp-server?pivots=visualstudio)
+- 
