@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConsoleMcpClient/ConsoleMcpClient.csproj" />
+  <Project Path="McpServer1/McpServer1.csproj" />
+</Solution>
