@@ -13,8 +13,7 @@ builder.Services
         options.Stateless = true;
     })
     .WithTools<FlightTools>()
-    .WithTools<DateTimeTools>()
-    .WithTools<RandomNumberTools>();
+    .WithTools<DateTimeTools>();
 
 var app = builder.Build();
 app.MapMcp();

@@ -37,7 +37,7 @@ Refer to the VS Code or Visual Studio documentation for more information on conf
 - [Use MCP servers in Visual Studio (Preview)](https://learn.microsoft.com/visualstudio/ide/mcp-servers)
 
 ## Testing the MCP Server
-Once configured, you can ask Copilot Chat for a random number, for example, `Give me 3 random numbers`. It should prompt you to use the `get_random_number` tool on the `McpServer1` MCP server and show you the results.
+Once configured, you can ask Copilot Chat date-related questions, for example, `What time is it?`. It should prompt you to use the `get_random_number` tool on the `McpServer1` MCP server and show you the results.
 
 ## Known issues
 1. When using VS Code, connecting to `https://localhost:5106` fails.
